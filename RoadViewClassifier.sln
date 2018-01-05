@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadViewClassifier", "RoadViewClassifier\RoadViewClassifier.csproj", "{AD78A0CE-807A-486B-810F-C8C84C19FB85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD78A0CE-807A-486B-810F-C8C84C19FB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD78A0CE-807A-486B-810F-C8C84C19FB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD78A0CE-807A-486B-810F-C8C84C19FB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD78A0CE-807A-486B-810F-C8C84C19FB85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B467ED31-0FFA-49F3-ACEA-CA4125D1AAD3}
+	EndGlobalSection
+EndGlobal
